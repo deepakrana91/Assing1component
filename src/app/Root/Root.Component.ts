@@ -1,3 +1,6 @@
+
+// Creating a new component Root.Component with selector name as app-rootcom
+
 import { Component } from '@angular/core';
 
 @Component({

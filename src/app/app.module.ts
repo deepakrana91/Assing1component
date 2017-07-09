@@ -4,6 +4,7 @@ import { NgModule } from '@angular/core';
 
 import { AppComponent } from './app.component';
 
+//adding the new RootComponent to NgModule decorator
 @NgModule({
   declarations: [
     AppComponent,
